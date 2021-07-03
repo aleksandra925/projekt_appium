@@ -1,8 +1,8 @@
 # appium
 
 #Przygotowanie CLI gmsaas
-$ sudo apt install python3-pip
-$ pip3 install gmsaas
+$sudo apt install python3-pip
+$pip3 install gmsaas
 
 #zalogowanie się na konto w cloud.geny.io
 $ gmsaas auth login [EMAILUZYTYDOKONTAGENYMOTION@EMAIL.COM]
